@@ -48,5 +48,21 @@ Download the [LFW](https://pan.baidu.com/s/1OiFNSqYAUSgzayoTATbOiA) (code: ```4y
 ### Testing
 Download our models and patterns from [Baidu Disk](https://pan.baidu.com/s/1q4MNzbIorGynaWXxZ3T2YQ) (code: ```yies```), set the paths in Test.py then run it.
 
+##  📚 Citation
+
+```shell
+@article{Shi:25,
+author = {Jing-Yi Shi and Jia-Qi Song and Peng-Cheng Ji and Zi-Qing Zhao and Yuan-Jing Yu and Ming-Fei Li and Ling-An Wu},
+journal = {Opt. Express},
+number = {12},
+pages = {26690--26702},
+publisher = {Optica Publishing Group},
+title = {Single-pixel imaging via data-driven and deep image prior dual networks},
+volume = {33},
+month = {Jun},
+year = {2025}
+}
+```
+
 ## 📄 License
 For academic and non-commercial use only.
